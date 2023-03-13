@@ -21,4 +21,4 @@ The Heart_bae project was created using HTML, CSS, and JavaScript.
 The developer would like to thank the YouTuber who inspired this project, as well as the creators of the libraries used in the project, including jQuery and Animate.css.
 
 ## License
-Heart_bae is licensed under the The Universal License. You are free to use, modify, and distribute this project as you see fit. Please see the LICENSE file for more details
+Heart_bae is licensed under the The Unlicense. You are free to use, modify, and distribute this project as you see fit. Please see the LICENSE file for more details
