@@ -6,7 +6,7 @@ body{
 }
 
 span{
-  background: url("heart.png"); 
+  background: url("/heart.png"); 
   width: 525px;
   height: 525px;
   position: absolute;
